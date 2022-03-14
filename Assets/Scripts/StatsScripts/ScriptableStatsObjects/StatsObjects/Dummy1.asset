@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ff41dd13aaef674ebe2a514845abaad, type: 3}
+  m_Name: Dummy1
+  m_EditorClassIdentifier: 
+  currentLevel: 0
+  hpLevels: 140000001e000000280000003c00000064000000
+  defLevels: 0000000000000000000000000000000000000000
+  atkLevels: 05000000050000000a0000000a00000014000000
+  baseHP: 20
+  baseDEF: 0
+  baseATK: 5
+  expToGive: 05000000050000000a0000000f00000014000000
+  givenExp: 5

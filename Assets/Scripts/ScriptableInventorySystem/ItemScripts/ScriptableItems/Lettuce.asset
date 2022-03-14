@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ccbdb6bac2f8e24da6a887b07586e86, type: 3}
+  m_Name: Lettuce
+  m_EditorClassIdentifier: 
+  Id: 5
+  uiDisplay: {fileID: 7613968077380885141, guid: bf9bd4ff7ddb1164f98beecf4e16980c,
+    type: 3}
+  type: 0
+  stackable: 1
+  description: Trust me, it's lettuce.
+  buffs:
+  - attribute: 1
+    value: 5
+    min: 10
+    max: 10

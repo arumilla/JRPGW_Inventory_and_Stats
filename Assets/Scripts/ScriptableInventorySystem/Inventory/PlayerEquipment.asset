@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2df9eec5b757b8c4d8c0e7d8aea808b8, type: 3}
+  m_Name: PlayerEquipment
+  m_EditorClassIdentifier: 
+  container:
+    Items:
+    - AllowedItems: 
+      parent: {fileID: 0}
+      item:
+        name: 
+        ID: -1
+        stackable: 0
+        itemType: 
+        buffs: []
+      amount: 0
+      ID: -1
+    - AllowedItems: 
+      parent: {fileID: 0}
+      item:
+        name: 
+        ID: -1
+        stackable: 0
+        itemType: 
+        buffs: []
+      amount: 0
+      ID: -1
+    - AllowedItems: 
+      parent: {fileID: 0}
+      item:
+        name: 
+        ID: -1
+        stackable: 0
+        itemType: 
+        buffs: []
+      amount: 0
+      ID: -1
+  database: {fileID: 11400000, guid: ba0ec6358aaba514baf1a352407b0205, type: 2}
+  savePath: 

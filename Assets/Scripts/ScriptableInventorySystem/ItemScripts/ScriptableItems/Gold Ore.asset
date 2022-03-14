@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad8053e84603b864083c64f0e44ad2fe, type: 3}
+  m_Name: Gold Ore
+  m_EditorClassIdentifier: 
+  Id: 4
+  uiDisplay: {fileID: 21300000, guid: de5f5c6fcd5a4dc43a1e70bf06de8063, type: 3}
+  type: 4
+  stackable: 1
+  description: 'Unrefined gold ore
+
+    - Maybe you can sell it for a good amount
+    of money'
+  buffs:
+  - attribute: 0
+    value: 500
+    min: 500
+    max: 500
